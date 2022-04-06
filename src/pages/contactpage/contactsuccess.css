@@ -1,0 +1,28 @@
+.contactContainer {
+    align-items: center;
+    text-align: center;
+    margin-bottom: 540px;
+    margin-top: 135px;
+}
+
+.contactContainer h3 {
+    font-family: 'Indie Flower', cursive;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    color: #be1931;
+}
+
+.contactContainer p {
+    font-family: 'Indie Flower', cursive;
+    letter-spacing: 0.1rem;
+    color: green;
+}
+
+.contactContainer button {
+    border: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    background-color:  #ffcc4d;
+    color: white;
+}

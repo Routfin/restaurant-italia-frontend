@@ -1,0 +1,18 @@
+#nav {
+    background-color: #be1931;
+}
+
+#logobrand img {
+    height:53px;
+}
+
+#link {
+    color: white;
+    letter-spacing: 0.1rem;
+    font-family: 'Inconsolata', monospace;
+    padding: 0 16px;
+}
+
+#link:hover {
+    color: #ffcc4d;
+}

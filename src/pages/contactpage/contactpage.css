@@ -1,0 +1,70 @@
+
+.contactContainer {
+    margin-top: 40px;
+    text-align: center;
+    align-items: center;
+}
+
+.cellphoneContact {
+    font-family: 'Indie Flower', cursive;
+}
+
+.cellphoneContact h2 {
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    color: #be1931;
+}
+
+.cellphoneContact p {
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    font-size: 30px;
+    color: green;
+}
+
+.contactContainer i {
+    font-size: 20px;
+}
+
+.emailContact {
+    padding: 0 100px;
+}
+
+.emailContact h2 {
+    margin-top: 100px;
+    font-family: 'Indie Flower', cursive;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    margin-bottom: 30px;
+    color: #be1931;
+}
+
+.emailContact p {
+    letter-spacing: 0.1rem;
+    font-family: 'Indie Flower', cursive;
+    color: green;
+    margin-bottom: 30px;
+
+}
+
+#formConfig {
+    box-shadow: none;
+}
+
+.contactBtn {
+    margin-top: 30px;
+}
+
+.contactBtn Button {
+    border-radius: 4px;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;  
+    background-color: #be1931;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 200px;
+}
+
+.contactBtn Button:hover {
+    background-color: #be1931;
+}

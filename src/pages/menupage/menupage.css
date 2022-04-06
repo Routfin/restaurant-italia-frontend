@@ -1,0 +1,122 @@
+.menuContainer {
+    align-items: center;
+    text-align: center;
+    margin-top: 12px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.menuContainer h2 {
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    color: #be1931;
+}
+
+.menuContainer p {
+    color: #ffcc4d;
+    font-family: 'Indie Flower', cursive;
+    letter-spacing: 0.2rem;
+}
+
+.pastaContainer {
+    align-items: center;
+    text-align: center;
+}
+
+.pastaContainer h2 {
+    font-family: 'Indie Flower', cursive;
+    text-transform: uppercase;
+    color: #be1931;
+}
+
+.dessetContainer {
+    margin-top: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.dessetContainer h2 {
+    font-family: 'Indie Flower', cursive;
+    text-transform: uppercase;
+    color: #be1931;
+}
+
+.drinksContainer {
+    margin-top: 25px;
+    align-items: center;
+    text-align: center;
+}
+
+.drinksContainer h2 {
+    font-family: 'Indie Flower', cursive;
+    text-transform: uppercase;
+    color: #be1931;
+}
+
+#cardGroup {
+    padding: 0 50px;
+}
+
+#imgMenu {
+    height: 190px;
+}
+
+#plat h5 {
+    letter-spacing: 0.2rem;
+    font-family: 'Indie Flower', cursive;
+    font-size: 27px;
+}
+
+#plat p {
+    letter-spacing: 0.1rem;
+}
+
+#plat h6 {
+    color: #ffcc4d;
+    align-items: center;
+    margin-left: 30px;
+    font-size: 28px;
+}
+
+.pizzaContainer {
+    margin-top: 15px;
+    align-items: center;
+    text-align: center;
+}
+
+.pizzaContainer h2 {
+    margin-top: 36px;
+    font-family: 'Indie Flower', cursive;
+    text-transform: uppercase;
+    color:  #ffcc4d;
+}
+
+.pizzaContainer p {
+    font-family: 'Indie Flower', cursive;
+    font-size: 17px;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    margin-bottom: 30px;
+}
+
+.pizzaContainer h3 {
+    color: #be1931;
+}
+
+.pizzaContainer h4 {
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    color: #be1931;
+
+}
+
+.pizzaContainer i {
+    color: #be1931;
+}
+
+.pizzaContainer span {
+    color: green;
+}
+
+.pizzaContainer img {
+    height: 270px;
+}

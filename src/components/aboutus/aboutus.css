@@ -1,0 +1,78 @@
+.center-vertical {
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    align-items: center;
+    background-color: green;
+    margin-top: 78px;
+}
+
+.about-us-section {
+    width: 100%;
+    padding: calc(5% + 30px);
+}
+
+.about-us-section .img-head {
+    position: relative;
+}
+
+.about-us-section .img-head img {
+    width: 100%;
+}
+
+.about-us-section .img-head::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to right bottom, var(--colorOne), var(--colorTwo));
+    position: absolute;
+    left: 0;
+    top: 0;   
+}
+
+.about-us-section .text-head {
+    font-size: 37px;
+    color: var(--colorTwo);
+    font-family: 'Beau Rivage', cursive;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+
+}
+
+.about-us-section .break-small {
+    width: 80px;
+    height: 3px;
+    background-color: var(--colorTwo);
+}
+
+.about-us-section .text-para {
+    font-size: 16px;
+    color: #444;
+    font-family: 'Beau Rivage', cursive;
+    letter-spacing: 0.2rem;
+}
+
+.about-us-section .box {
+    background-color: var(--colorTwo);
+    color: #fff;
+    text-align: center;
+    padding: 20px 0px;
+    position: relative;
+    overflow: hidden;
+}
+
+.about-us-section .box i {
+    font-size: 42px;
+}
+
+
+.about-us-section .box h4 {
+    font-size: 14px;
+}
+
+
+.about-us-section .box p {
+    font-size: 22px;
+
+}
+

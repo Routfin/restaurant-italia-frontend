@@ -1,0 +1,48 @@
+.container {
+    align-items: center;
+    text-align: center;
+}
+
+.textContainer {
+    margin-top: 50px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.textContainer h2 {
+  font-size: 60px;
+  color: #ffcc4d;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
+
+.textContainer p {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    color: green;
+}
+
+.imgContainer img {
+    height: 236px;
+}
+
+.visitContainer {
+    margin-top: 40px;
+    align-items: center;
+    text-align: center;
+}
+
+.visitContainer h1 {
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    color: #be1931;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+.visitContainer h3 {
+    letter-spacing: 00.2rem;
+    text-transform: uppercase;
+    font-family: 'Indie Flower', cursive;
+
+}
